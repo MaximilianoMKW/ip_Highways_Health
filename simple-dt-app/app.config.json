@@ -1,0 +1,45 @@
+{
+  "$schema": "./.dt-app/app.config.schema.json",
+  "environmentUrl": "https://jsl56720.apps.dynatrace.com/",
+  "app": {
+    "name": "Highways Health App",
+    "version": "0.0.2",
+    "description": "Highways Health App",
+    "id": "my.highways.health",
+    "csp": {
+      "img-src": [
+        {
+          "value": "data:",
+          "comment": "Allow inline data URI images."
+        },
+        {
+          "value": "https://a.basemaps.cartocdn.com",
+          "comment": "Allow Leaflet Carto basemap tile images (subdomain a)."
+        },
+        {
+          "value": "https://b.basemaps.cartocdn.com",
+          "comment": "Allow Leaflet Carto basemap tile images (subdomain b)."
+        },
+        {
+          "value": "https://c.basemaps.cartocdn.com",
+          "comment": "Allow Leaflet Carto basemap tile images (subdomain c)."
+        },
+        {
+          "value": "https://d.basemaps.cartocdn.com",
+          "comment": "Allow Leaflet Carto basemap tile images (subdomain d)."
+        }
+      ]
+    },
+    "scopes": [
+      {
+        "name": "storage:logs:read",
+        "comment": "default template"
+      },
+      {
+        "name": "storage:buckets:read",
+        "comment": "default template"
+      }
+    ],
+    "icon": "icon.png"
+  }
+}
