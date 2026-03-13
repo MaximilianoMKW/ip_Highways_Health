@@ -1,9 +1,9 @@
 {
   "$schema": "./.dt-app/app.config.schema.json",
-  "environmentUrl": "https://jsl56720.apps.dynatrace.com/",
+  "environmentUrl": "https://lsa23079.apps.dynatrace.com/",
   "app": {
     "name": "Highways Health App",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Highways Health App",
     "id": "my.highways.health",
     "csp": {

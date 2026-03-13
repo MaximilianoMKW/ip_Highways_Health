@@ -5,6 +5,8 @@ import {
   getDotRadius,
   getZoomAdjustedDotRadius,
   getLineMidpoint,
+  normalizeStatus,
+  randomizeStatus,
   shouldShowByFilter,
   toLeafletLatLngs,
   type MapFilter,
@@ -92,6 +94,26 @@ describe("mapUtils", () => {
   it("accepts only supported filter values", () => {
     const filters: MapFilter[] = ["all", "warning", "critical"];
     expect(filters).toHaveLength(3);
+  });
+
+  it("keeps explicit statuses and normalizes unknown status with 90/8/2 thresholds", () => {
+    expect(normalizeStatus("ok", 0.99)).toBe("ok");
+    expect(normalizeStatus("warning", 0.01)).toBe("warning");
+    expect(normalizeStatus("critical", 0.01)).toBe("critical");
+
+    expect(normalizeStatus(undefined, 0)).toBe("ok");
+    expect(normalizeStatus(undefined, 0.899999)).toBe("ok");
+    expect(normalizeStatus(undefined, 0.9)).toBe("warning");
+    expect(normalizeStatus(undefined, 0.979999)).toBe("warning");
+    expect(normalizeStatus(undefined, 0.98)).toBe("critical");
+  });
+
+  it("randomizes status with 90/8/2 thresholds", () => {
+    expect(randomizeStatus(0)).toBe("ok");
+    expect(randomizeStatus(0.899999)).toBe("ok");
+    expect(randomizeStatus(0.9)).toBe("warning");
+    expect(randomizeStatus(0.979999)).toBe("warning");
+    expect(randomizeStatus(0.98)).toBe("critical");
   });
 
   it("escapes HTML for string and non-string values", () => {

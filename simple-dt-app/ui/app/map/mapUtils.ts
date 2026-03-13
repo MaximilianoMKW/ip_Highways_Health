@@ -32,6 +32,9 @@ export type RoadMapItem = {
   name: string;
 };
 
+const OK_STATUS_THRESHOLD = 0.9;
+const WARNING_STATUS_THRESHOLD = 0.98;
+
 export function getColor(status: RoadStatus): string {
   if (status === "ok") {
     return "#32CD32";
@@ -122,20 +125,20 @@ export function normalizeStatus(
   if (inputStatus === "ok" || inputStatus === "warning" || inputStatus === "critical") {
     return inputStatus;
   }
-  if (randomValue < 0.75) {
+  if (randomValue < OK_STATUS_THRESHOLD) {
     return "ok";
   }
-  if (randomValue < 0.92) {
+  if (randomValue < WARNING_STATUS_THRESHOLD) {
     return "warning";
   }
   return "critical";
 }
 
 export function randomizeStatus(randomValue: number = Math.random()): RoadStatus {
-  if (randomValue < 0.5) {
+  if (randomValue < OK_STATUS_THRESHOLD) {
     return "ok";
   }
-  if (randomValue < 0.92) {
+  if (randomValue < WARNING_STATUS_THRESHOLD) {
     return "warning";
   }
   return "critical";
