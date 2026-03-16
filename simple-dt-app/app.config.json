@@ -3,7 +3,7 @@
   "environmentUrl": "https://lsa23079.apps.dynatrace.com/",
   "app": {
     "name": "Highways Health App",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Highways Health App",
     "id": "my.highways.health",
     "csp": {

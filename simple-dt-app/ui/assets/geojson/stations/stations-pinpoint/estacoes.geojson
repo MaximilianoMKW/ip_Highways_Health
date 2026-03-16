@@ -1,0 +1,6408 @@
+{
+  "displayFieldName": "designacaolinha",
+  "fieldAliases": {
+    "desig_tipo": "Tipo",
+    "desiggrupo": "DesigGrupo",
+    "designacao": "Designação",
+    "codlinhaiet50": "Código Linha IET50",
+    "codsegmentoiet50": "Código Seg IET50",
+    "coddepende": "Dependência"
+  },
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": { "wkid": 4326, "latestWkid": 4326 },
+  "fields": [
+    {
+      "name": "desig_tipo",
+      "type": "esriFieldTypeString",
+      "alias": "Tipo",
+      "length": 80
+    },
+    {
+      "name": "desiggrupo",
+      "type": "esriFieldTypeString",
+      "alias": "DesigGrupo",
+      "length": 20
+    },
+    {
+      "name": "designacao",
+      "type": "esriFieldTypeString",
+      "alias": "Designação",
+      "length": 100
+    },
+    {
+      "name": "codlinhaiet50",
+      "type": "esriFieldTypeInteger",
+      "alias": "Código Linha IET50"
+    },
+    {
+      "name": "codsegmentoiet50",
+      "type": "esriFieldTypeInteger",
+      "alias": "Código Seg IET50"
+    },
+    {
+      "name": "coddepende",
+      "type": "esriFieldTypeInteger",
+      "alias": "Dependência"
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Marinha das Ondas",
+        "codlinhaiet50": 58,
+        "codsegmentoiet50": 582,
+        "coddepende": 19083
+      },
+      "geometry": { "x": -8.8611664490253119, "y": 40.043203931673801 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carreço - A",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18085
+      },
+      "geometry": { "x": -8.8633329491660167, "y": 41.750416264043984 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carvalha - A",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18416
+      },
+      "geometry": { "x": -8.7024777244055613, "y": 41.979888939274474 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Carreço",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18093
+      },
+      "geometry": { "x": -8.8633328511086891, "y": 41.750415886525502 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Carvalha",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18408
+      },
+      "geometry": { "x": -8.702489532716525, "y": 41.979885202062768 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Mato Miranda Norte",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 32391
+      },
+      "geometry": { "x": -8.5496779834413967, "y": 39.376262965204219 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Hospital de São João",
+        "codlinhaiet50": 5,
+        "codsegmentoiet50": 51,
+        "coddepende": 21030
+      },
+      "geometry": { "x": -8.5980766126289438, "y": 41.185119408564105 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Abela",
+        "codlinhaiet50": 38,
+        "codsegmentoiet50": 381,
+        "coddepende": 94128
+      },
+      "geometry": { "x": -8.5270905182231633, "y": 37.965806201523705 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Escapães",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44222
+      },
+      "geometry": { "x": -8.5164137712673416, "y": 40.919659309001247 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Maçainhas",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 54262
+      },
+      "geometry": { "x": -7.2873013951007604, "y": 40.388757559017847 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Famalicão",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 5074
+      },
+      "geometry": { "x": -8.529522020754877, "y": 41.40495653081723 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Hendaye",
+        "codlinhaiet50": null,
+        "codsegmentoiet50": null,
+        "coddepende": 67700
+      },
+      "geometry": { "x": -1.7860970004036851, "y": 43.350425998976107 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Vigo",
+        "codlinhaiet50": null,
+        "codsegmentoiet50": null,
+        "coddepende": 22303
+      },
+      "geometry": { "x": -8.7130749997608827, "y": 42.23449299946752 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Badajoz",
+        "codlinhaiet50": 74,
+        "codsegmentoiet50": 741,
+        "coddepende": 37606
+      },
+      "geometry": { "x": -6.9812551145106863, "y": 38.890487894163165 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Maceda",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38336
+      },
+      "geometry": { "x": -8.6240563066058655, "y": 40.912179479886852 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Tuy",
+        "codlinhaiet50": 72,
+        "codsegmentoiet50": 721,
+        "coddepende": 22401
+      },
+      "geometry": { "x": -8.643228342008026, "y": 42.0565828557272 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Tadim",
+        "codlinhaiet50": 4,
+        "codsegmentoiet50": 41,
+        "coddepende": 29090
+      },
+      "geometry": { "x": -8.4833104167810554, "y": 41.508921218861218 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Portimão",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90290
+      },
+      "geometry": { "x": -8.5374424321681897, "y": 37.144655608493146 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Paraimo",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37184
+      },
+      "geometry": { "x": -8.4800894382511309, "y": 40.481142357430549 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Gaia",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39164
+      },
+      "geometry": { "x": -8.6204493138060858, "y": 41.129681197647635 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Curia",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37119
+      },
+      "geometry": { "x": -8.4561193785090527, "y": 40.42437991072596 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Pero Negro",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62315
+      },
+      "geometry": { "x": -9.1973871124165978, "y": 38.98883872704365 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vila Franca das Naves",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 48546
+      },
+      "geometry": { "x": -7.2581741083883706, "y": 40.724771846293159 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Areosa",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18044
+      },
+      "geometry": { "x": -8.8552799820310231, "y": 41.720482491469191 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Mazagão",
+        "codlinhaiet50": 4,
+        "codsegmentoiet50": 41,
+        "coddepende": 29116
+      },
+      "geometry": { "x": -8.4583467119598481, "y": 41.526912680753789 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Garvão ",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 375,
+        "coddepende": 77032
+      },
+      "geometry": { "x": -8.3483305393893072, "y": 37.710455048500201 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Livramento",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73239
+      },
+      "geometry": { "x": -7.7312816832578486, "y": 37.073721763806049 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Parque das Cidades",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 78295
+      },
+      "geometry": { "x": -7.9848579611779895, "y": 37.080200007510555 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Reguengo - Vale da Pedra - Pontével",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 33084
+      },
+      "geometry": { "x": -8.7938457340925993, "y": 39.099253477162186 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Reboleira",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 60095
+      },
+      "geometry": { "x": -9.2225995757075907, "y": 38.750853366207245 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Estoril",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69245
+      },
+      "geometry": { "x": -9.3987241943875866, "y": 38.70323838146308 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "São Marcos",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 375,
+        "coddepende": 77594
+      },
+      "geometry": { "x": -8.3715143601015232, "y": 37.353260720166581 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Recezinhos",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8441
+      },
+      "geometry": { "x": -8.1748010423430006, "y": 41.23058350959986 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Irún",
+        "codlinhaiet50": null,
+        "codsegmentoiet50": null,
+        "coddepende": 11600
+      },
+      "geometry": { "x": -1.801304999622545, "y": 43.339466999250675 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Feliteira",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62364
+      },
+      "geometry": { "x": -9.1793517520505628, "y": 39.022418347106054 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "São Romão",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 4077
+      },
+      "geometry": { "x": -8.5541023889377907, "y": 41.277568819068051 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Oliveirinha Cabanas",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46524
+      },
+      "geometry": { "x": -7.9633194183462894, "y": 40.450367349316821 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vidigal",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80655
+      },
+      "geometry": { "x": -8.4784660978362432, "y": 38.702317126766324 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Tamel",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6213
+      },
+      "geometry": { "x": -8.6347524011630057, "y": 41.608806649070949 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Lisboa Rossio",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 59006
+      },
+      "geometry": { "x": -9.1414606997877517, "y": 38.714232998703949 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Senhora das Dores",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 4622
+      },
+      "geometry": { "x": -8.551887735473823, "y": 41.322302454633054 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Livração",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8474
+      },
+      "geometry": { "x": -8.1556592067629126, "y": 41.216867428358263 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Castelo Mendo",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49312
+      },
+      "geometry": { "x": -6.9412059092592191, "y": 40.558852417967991 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Alverca",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31187
+      },
+      "geometry": { "x": -9.0332994600822172, "y": 38.890544995730487 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Monte Gordo",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73544
+      },
+      "geometry": { "x": -7.4483612114718003, "y": 37.190067393023199 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Almancil",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 78253
+      },
+      "geometry": { "x": -8.0234071957900746, "y": 37.095225207558997 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Suzão",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8060
+      },
+      "geometry": { "x": -8.5027150224619774, "y": 41.19730229829856 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alcáçovas",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 74120
+      },
+      "geometry": { "x": -8.0955068791943869, "y": 38.406932134283799 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Francelos Sul",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39099
+      },
+      "geometry": { "x": -8.64877741898073, "y": 41.075940456526183 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Setil",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 32003
+      },
+      "geometry": { "x": -8.7779623366550812, "y": 39.113589473132514 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Gata",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49049
+      },
+      "geometry": { "x": -7.2144838273499676, "y": 40.52179139002385 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Elvas",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 57497
+      },
+      "geometry": { "x": -7.1422866715344053, "y": 38.895516163757861 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Porto Rei",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9282
+      },
+      "geometry": { "x": -7.9107136533155895, "y": 41.121879985311125 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Oeiras",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69179
+      },
+      "geometry": { "x": -9.319046859415522, "y": 38.688518795154835 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Monte Novo-Palma",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 92205
+      },
+      "geometry": { "x": -8.6348883593814119, "y": 38.430162557458502 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Mourisca do Vouga",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42259
+      },
+      "geometry": { "x": -8.4600260685956812, "y": 40.60537408265224 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carapeços",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6197
+      },
+      "geometry": { "x": -8.6329059539213517, "y": 41.585615919339624 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Soalheira",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53264
+      },
+      "geometry": { "x": -7.4553277120240962, "y": 40.02688726774128 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Ermesinde - A",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8011
+      },
+      "geometry": { "x": -8.5466913473730397, "y": 41.221648778502193 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Canha",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80580
+      },
+      "geometry": { "x": -8.5104164418576218, "y": 38.748728111123853 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Pereira",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35055
+      },
+      "geometry": { "x": -8.5849387525015484, "y": 40.186365870675225 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Monte dos Lobos",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46219
+      },
+      "geometry": { "x": -8.264540738420596, "y": 40.408205634968077 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Ovar",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38299
+      },
+      "geometry": { "x": -8.6166632482066952, "y": 40.864002363246627 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Massamá-Barcarena",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 60137
+      },
+      "geometry": { "x": -9.2835883358781359, "y": 38.751505862661077 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Ferreiros",
+        "codlinhaiet50": 4,
+        "codsegmentoiet50": 41,
+        "coddepende": 29132
+      },
+      "geometry": { "x": -8.4414988418530896, "y": 41.530804023582853 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Campolide ",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 60004
+      },
+      "geometry": { "x": -9.168063744622394, "y": 38.733347174088813 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Contenças",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 48066
+      },
+      "geometry": { "x": -7.7155169339486811, "y": 40.567003602210882 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Monte Real",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63685
+      },
+      "geometry": { "x": -8.8476839419726154, "y": 39.85599443764653 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Mexilhoeira Grande",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90381
+      },
+      "geometry": { "x": -8.6096444433340231, "y": 37.154154392443516 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Campolide-A",
+        "codlinhaiet50": 29,
+        "codsegmentoiet50": 292,
+        "coddepende": 67033
+      },
+      "geometry": { "x": -9.1692766564606369, "y": 38.730875673615273 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Silves",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90183
+      },
+      "geometry": { "x": -8.440488201582772, "y": 37.175646380152735 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carvalhal da Portela",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42309
+      },
+      "geometry": { "x": -8.4528530424480479, "y": 40.63540725809375 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Giesteira",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28159
+      },
+      "geometry": { "x": -8.3888885070672838, "y": 41.364540857786935 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Bustelo",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8334
+      },
+      "geometry": { "x": -8.2748986344111923, "y": 41.235268020193658 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Portela de Sintra",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 61093
+      },
+      "geometry": { "x": -9.3767239553033352, "y": 38.802236773090556 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Nelas",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46672
+      },
+      "geometry": { "x": -7.8499598440814653, "y": 40.530185079747319 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Mata",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 56176
+      },
+      "geometry": { "x": -7.7337467249841145, "y": 39.280462353277322 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alhos Vedros",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 95075
+      },
+      "geometry": { "x": -9.0266959137264884, "y": 38.651838746696505 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Senhora da Agonia",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18234
+      },
+      "geometry": { "x": -8.8433629004245589, "y": 41.869653319259186 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Almourol",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 251,
+        "coddepende": 51102
+      },
+      "geometry": { "x": -8.3740156317233509, "y": 39.462264837005996 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Parede",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69203
+      },
+      "geometry": { "x": -9.3563889661029815, "y": 38.689734776941812 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Granja do Ulmeiro - Alfarelos",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35006
+      },
+      "geometry": { "x": -8.6347518310136344, "y": 40.164732293400924 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Lousado ",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 5009
+      },
+      "geometry": { "x": -8.5261938315106995, "y": 41.351248199606495 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Albergaria-a-Nova",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44495
+      },
+      "geometry": { "x": -8.4893433786451045, "y": 40.744311626835589 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Castanheira do Ribatejo",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31310
+      },
+      "geometry": { "x": -8.9660612183756019, "y": 38.987912441594361 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Vila Meã",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8433
+      },
+      "geometry": { "x": -8.1843200984073796, "y": 41.245328956362506 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Sampaio-Oleiros",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44073
+      },
+      "geometry": { "x": -8.5933343677537799, "y": 40.984006558986636 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Dagorda - Peniche",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62802
+      },
+      "geometry": { "x": -9.1724434560274322, "y": 39.344423265148322 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Corroios",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 371,
+        "coddepende": 17137
+      },
+      "geometry": { "x": -9.1515701385014037, "y": 38.636381174309399 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Travagem",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 4010
+      },
+      "geometry": { "x": -8.5517201652963681, "y": 41.228332831587878 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Fanhais",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63313
+      },
+      "geometry": { "x": -8.9992484014156613, "y": 39.625514721534394 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Morgado",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80044
+      },
+      "geometry": { "x": -8.7397270901645303, "y": 39.107921169474942 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Castelo Novo",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53314
+      },
+      "geometry": { "x": -7.4607442750132504, "y": 40.064409025568189 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Fontela",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 64089
+      },
+      "geometry": { "x": -8.8137794968938099, "y": 40.14188392718129 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Porto Campanhã",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 11,
+        "coddepende": 2006
+      },
+      "geometry": { "x": -8.584835347926397, "y": 41.148719259346507 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "São Torcato",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80465
+      },
+      "geometry": { "x": -8.511939855747169, "y": 38.846221157860782 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Fontela-A",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 64097
+      },
+      "geometry": { "x": -8.8248483604527408, "y": 40.1463689854519 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Estômbar-Lagoa",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90241
+      },
+      "geometry": { "x": -8.4854884190534019, "y": 37.143424668355024 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Soudos - Vila Nova",
+        "codlinhaiet50": 24,
+        "codsegmentoiet50": 242,
+        "coddepende": 40014
+      },
+      "geometry": { "x": -8.472011978469272, "y": 39.542239238407475 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Afife ",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18119
+      },
+      "geometry": { "x": -8.8614711381806242, "y": 41.775380570159257 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Alvito-A",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 371,
+        "coddepende": 17038
+      },
+      "geometry": { "x": -9.1770316033669435, "y": 38.709389162507236 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Runa",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62422
+      },
+      "geometry": { "x": -9.2098377500219915, "y": 39.072973221010386 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Bifurcação do Luso",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46086
+      },
+      "geometry": { "x": -8.389737662276783, "y": 40.384510402697309 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Aldeia",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49411
+      },
+      "geometry": { "x": -6.8853262911826887, "y": 40.600446555183915 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Oliveira de Azeméis",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44339
+      },
+      "geometry": { "x": -8.4818089936020815, "y": 40.840342254739888 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carriço",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63834
+      },
+      "geometry": { "x": -8.8111177558667944, "y": 39.980607727585664 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Foros de Amora",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 371,
+        "coddepende": 17152
+      },
+      "geometry": { "x": -9.1293739224454757, "y": 38.620999065468339 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Assumar",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 57117
+      },
+      "geometry": { "x": -7.3822668902353854, "y": 39.138916313947661 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Salir do Porto",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63107
+      },
+      "geometry": { "x": -9.1472205075168773, "y": 39.492385524514269 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Messines-Alte",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 375,
+        "coddepende": 77735
+      },
+      "geometry": { "x": -8.2905388761378305, "y": 37.255358521558236 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Tancos",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 251,
+        "coddepende": 51086
+      },
+      "geometry": { "x": -8.395342037481436, "y": 39.461240957905211 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Pinhão",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 10249
+      },
+      "geometry": { "x": -7.5451739720111357, "y": 41.190382333695581 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vale de Prazeres",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53397
+      },
+      "geometry": { "x": -7.4241486165016175, "y": 40.114741189840352 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Barrimau",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 5058
+      },
+      "geometry": { "x": -8.5261197578938219, "y": 41.389836117718239 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Bifurcação de Torre Vã",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 93203
+      },
+      "geometry": { "x": -8.3704772000421421, "y": 37.838722175561898 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Sabugo",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62091
+      },
+      "geometry": { "x": -9.3000274907194882, "y": 38.830547182482768 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Vale de Santarém",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 32102
+      },
+      "geometry": { "x": -8.7238465779508498, "y": 39.188422740568363 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Telhada",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63958
+      },
+      "geometry": { "x": -8.7664391578038465, "y": 40.062362337676582 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Fogueteiro",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 371,
+        "coddepende": 17186
+      },
+      "geometry": { "x": -9.1015573873747613, "y": 38.609899181037662 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "São Gemil",
+        "codlinhaiet50": 5,
+        "codsegmentoiet50": 51,
+        "coddepende": 21006
+      },
+      "geometry": { "x": -8.5789700576958658, "y": 41.197093796141417 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Ramalhal",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62547
+      },
+      "geometry": { "x": -9.2159978034348882, "y": 39.139533995371593 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Quintans",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37358
+      },
+      "geometry": { "x": -8.612654011321812, "y": 40.590973921801627 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Madrid Chamartín",
+        "codlinhaiet50": null,
+        "codsegmentoiet50": null,
+        "coddepende": 17000
+      },
+      "geometry": { "x": -3.6814690002392738, "y": 40.473529998732673 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Vilar Formoso",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49460
+      },
+      "geometry": { "x": -6.8289721128375813, "y": 40.606106572760446 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Entroncamento",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34009
+      },
+      "geometry": { "x": -8.4738847534979254, "y": 39.461709918729362 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Zibreira",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62331
+      },
+      "geometry": { "x": -9.183469374470338, "y": 39.006023871930637 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Martingança",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63404
+      },
+      "geometry": { "x": -8.9458136893439555, "y": 39.687249284938645 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Salreu",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38125
+      },
+      "geometry": { "x": -8.5649546481571832, "y": 40.729171442133932 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Francelos Norte",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39222
+      },
+      "geometry": { "x": -8.6407696516230814, "y": 41.08830043194714 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Minas de Neves Corvo",
+        "codlinhaiet50": 79,
+        "codsegmentoiet50": 791,
+        "coddepende": 79319
+      },
+      "geometry": { "x": -7.9813734141572743, "y": 37.576803859346661 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Póvoa",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31146
+      },
+      "geometry": { "x": -9.0637871693886911, "y": 38.859562144221229 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Ferradosa",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 11114
+      },
+      "geometry": { "x": -7.3315698747468447, "y": 41.144523541444492 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Ponte de Sôr",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 55293
+      },
+      "geometry": { "x": -8.0129936286765364, "y": 39.265485914741426 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Fungalvaz Resguardo",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34165
+      },
+      "geometry": { "x": -8.4858013482561052, "y": 39.597036084941948 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Espadaneira",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35162
+      },
+      "geometry": { "x": -8.4709279377708473, "y": 40.208981804145616 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carregado",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31336
+      },
+      "geometry": { "x": -8.953671382842332, "y": 39.005432509171385 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Porto de Sines",
+        "codlinhaiet50": 38,
+        "codsegmentoiet50": 381,
+        "coddepende": 99127
+      },
+      "geometry": { "x": -8.8456314842193944, "y": 37.940249818519085 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Fuseta-A",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73197
+      },
+      "geometry": { "x": -7.7497393384978981, "y": 37.053535504412693 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Ferragudo",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90274
+      },
+      "geometry": { "x": -8.5190481018807915, "y": 37.138771973975331 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Sete Rios",
+        "codlinhaiet50": 29,
+        "codsegmentoiet50": 292,
+        "coddepende": 66076
+      },
+      "geometry": { "x": -9.1669501111044394, "y": 38.740051006232989 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Esqueiro",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18291
+      },
+      "geometry": { "x": -8.7928157388716475, "y": 41.909383623495813 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Covas",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28290
+      },
+      "geometry": { "x": -8.3008910133655114, "y": 41.421491848620363 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Ermesinde - B",
+        "codlinhaiet50": 3,
+        "codsegmentoiet50": 31,
+        "coddepende": 22012
+      },
+      "geometry": { "x": -8.5595104386889744, "y": 41.212398117121886 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Mouquim",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 5108
+      },
+      "geometry": { "x": -8.5220123466036704, "y": 41.428942190506255 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Penafiel",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8318
+      },
+      "geometry": { "x": -8.2949319435878746, "y": 41.217759524913532 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Fazenda",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 55327
+      },
+      "geometry": { "x": -7.9855121086803003, "y": 39.289944548263172 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Caxias",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69120
+      },
+      "geometry": { "x": -9.2743885139747402, "y": 38.698744345720648 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Guimarães",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 24000
+      },
+      "geometry": { "x": -8.293786265118646, "y": 41.435107731694906 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Riachos - Torres Novas - Golegã",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 32466
+      },
+      "geometry": { "x": -8.5045674199664294, "y": 39.432195410603825 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Águeda",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42218
+      },
+      "geometry": { "x": -8.4482314586737672, "y": 40.57749168195366 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Penteado",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 95125
+      },
+      "geometry": { "x": -8.9561707844402747, "y": 38.638142722773729 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Castelejo",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46409
+      },
+      "geometry": { "x": -8.0843495872533779, "y": 40.408026260140538 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Espinho-Vouga",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44016
+      },
+      "geometry": { "x": -8.6434807023710469, "y": 41.00214953493731 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Alcântara-Terra",
+        "codlinhaiet50": 29,
+        "codsegmentoiet50": 291,
+        "coddepende": 67025
+      },
+      "geometry": { "x": -9.1732379898251519, "y": 38.707434612072376 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Mouriscas-A",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52167
+      },
+      "geometry": { "x": -8.0850164364758026, "y": 39.467827197043817 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Irivo",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8243
+      },
+      "geometry": { "x": -8.3420201749015757, "y": 41.18161768983029 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Castro Marim",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73502
+      },
+      "geometry": { "x": -7.483877671612424, "y": 37.196773648667246 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Trancoso",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8151
+      },
+      "geometry": { "x": -8.4189329290503192, "y": 41.161259118957759 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Francelos",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39081
+      },
+      "geometry": { "x": -8.6474784984772999, "y": 41.081562287395776 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Ul",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44362
+      },
+      "geometry": { "x": -8.4911652846211378, "y": 40.82320059266717 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Muge",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80077
+      },
+      "geometry": { "x": -8.7205478160263485, "y": 39.086832182865699 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vale da Rosa",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 91033
+      },
+      "geometry": { "x": -8.8205112747693288, "y": 38.525157034865565 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Vesúvio",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 11197
+      },
+      "geometry": { "x": -7.2617098442042716, "y": 41.141339995756695 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "São Romão - A",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 4085
+      },
+      "geometry": { "x": -8.559269624686884, "y": 41.272567957713527 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Oliveira",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8409
+      },
+      "geometry": { "x": -8.199279020379393, "y": 41.257224903887327 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Cortegaça",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38372
+      },
+      "geometry": { "x": -8.6302447995078531, "y": 40.940639891659686 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Rio de Mouro",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 61044
+      },
+      "geometry": { "x": -9.322298171291969, "y": 38.784655111143962 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Barreiro",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 95000
+      },
+      "geometry": { "x": -9.0794383712431372, "y": 38.652485359660233 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Cuca",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28209
+      },
+      "geometry": { "x": -8.3419320857561061, "y": 41.376495256815531 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Godim",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9423
+      },
+      "geometry": { "x": -7.7975639383560624, "y": 41.166394682886072 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Aveiro - Vouga",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42002
+      },
+      "geometry": { "x": -8.6402375388179653, "y": 40.643306774225564 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Pinhal Novo ",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 371,
+        "coddepende": 68007
+      },
+      "geometry": { "x": -8.9152873081130011, "y": 38.630151148765322 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Vila Pouca do Campo",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35105
+      },
+      "geometry": { "x": -8.5250501164850885, "y": 40.19298738437822 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Algueirão-Mem Martins",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 61069
+      },
+      "geometry": { "x": -9.340984821479271, "y": 38.797712363418427 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Fernando Pó",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 71050
+      },
+      "geometry": { "x": -8.6918587960825207, "y": 38.636407840363262 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Amoreiras-Odemira",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 375,
+        "coddepende": 77099
+      },
+      "geometry": { "x": -8.4143845936041277, "y": 37.689973420369626 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Cête",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8227
+      },
+      "geometry": { "x": -8.3540480207882499, "y": 41.172201336157677 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Queluz-Belas",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 60103
+      },
+      "geometry": { "x": -9.257026709755479, "y": 38.758815328711727 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Santa Cita",
+        "codlinhaiet50": 24,
+        "codsegmentoiet50": 242,
+        "coddepende": 40105
+      },
+      "geometry": { "x": -8.3931153693914986, "y": 39.552877992754695 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Leandro",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 4036
+      },
+      "geometry": { "x": -8.5566809017482139, "y": 41.243765712298661 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Donas",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53520
+      },
+      "geometry": { "x": -7.4736072682246268, "y": 40.132620174102769 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Mourisca-Sado",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 91041
+      },
+      "geometry": { "x": -8.8144357952499472, "y": 38.534954996802604 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Pataias",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63354
+      },
+      "geometry": { "x": -8.9848925215811288, "y": 39.655514860873858 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Bicanho",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63974
+      },
+      "geometry": { "x": -8.7434285083666339, "y": 40.085594663706161 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Leça do Balio",
+        "codlinhaiet50": 5,
+        "codsegmentoiet50": 51,
+        "coddepende": 21071
+      },
+      "geometry": { "x": -8.6295512617946244, "y": 41.208423395864934 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Grândola Norte",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 92536
+      },
+      "geometry": { "x": -8.5417509144863057, "y": 38.242144816844146 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Porto São Bento",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 11,
+        "coddepende": 1008
+      },
+      "geometry": { "x": -8.610221144762205, "y": 41.145566789012918 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "São Mamede",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62786
+      },
+      "geometry": { "x": -9.1794149720255636, "y": 39.322034098170732 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Barcelos",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6122
+      },
+      "geometry": { "x": -8.608985453992446, "y": 41.536644949252903 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Eixo",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42077
+      },
+      "geometry": { "x": -8.5681501725019675, "y": 40.631026017835929 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Montemor",
+        "codlinhaiet50": 22,
+        "codsegmentoiet50": 222,
+        "coddepende": 65029
+      },
+      "geometry": { "x": -8.654060632733831, "y": 40.160151982059467 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alpedrinha",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53355
+      },
+      "geometry": { "x": -7.4619508638669814, "y": 40.09515927756393 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Malveira",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62224
+      },
+      "geometry": { "x": -9.2573680345782048, "y": 38.928772490011283 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Azinheira dos Barros ",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 92684
+      },
+      "geometry": { "x": -8.4212733684229661, "y": 38.092997703061172 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carvalhos de Figueiredo",
+        "codlinhaiet50": 24,
+        "codsegmentoiet50": 242,
+        "coddepende": 40113
+      },
+      "geometry": { "x": -8.3952743492489965, "y": 39.571054238731428 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Viana",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 74203
+      },
+      "geometry": { "x": -8.0423869050694865, "y": 38.352378208357408 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Couto de Cambeses",
+        "codlinhaiet50": 4,
+        "codsegmentoiet50": 41,
+        "coddepende": 29033
+      },
+      "geometry": { "x": -8.5287269658778087, "y": 41.48180277532709 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Alcácer do Sal",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 92338
+      },
+      "geometry": { "x": -8.5250111128844601, "y": 38.372891156298451 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Bombel",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 71225
+      },
+      "geometry": { "x": -8.5123078227005866, "y": 38.686789946047881 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Coimbra",
+        "codlinhaiet50": 21,
+        "codsegmentoiet50": 211,
+        "coddepende": 41020
+      },
+      "geometry": { "x": -8.4322368174223659, "y": 40.208883284783269 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Adémia",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 36046
+      },
+      "geometry": { "x": -8.4503418829254873, "y": 40.25092559408634 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Reveles",
+        "codlinhaiet50": 22,
+        "codsegmentoiet50": 222,
+        "coddepende": 65128
+      },
+      "geometry": { "x": -8.7454078397719623, "y": 40.13076959930234 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "São Martinho do Campo",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8102
+      },
+      "geometry": { "x": -8.4683357092519902, "y": 41.170234603833443 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Pinheiro",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 373,
+        "coddepende": 92130
+      },
+      "geometry": { "x": -8.6794381734490109, "y": 38.474107497288202 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Santa Clara-Sabóia",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 375,
+        "coddepende": 77388
+      },
+      "geometry": { "x": -8.4814068708205657, "y": 37.495832025903788 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Aguim",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37093
+      },
+      "geometry": { "x": -8.456804171526219, "y": 40.415407025581274 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Ameal-Sul",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35067
+      },
+      "geometry": { "x": -8.570368623093179, "y": 40.187749463373827 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Famalicão da Nazaré",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63180
+      },
+      "geometry": { "x": -9.0857167394778902, "y": 39.531606095348373 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Ermidas - Sado",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 93005
+      },
+      "geometry": { "x": -8.4139229120983874, "y": 38.00277689508912 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Casais",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35147
+      },
+      "geometry": { "x": -8.4841880338039051, "y": 40.204747422949637 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Tomar",
+        "codlinhaiet50": 24,
+        "codsegmentoiet50": 242,
+        "coddepende": 40154
+      },
+      "geometry": { "x": -8.4129107132398122, "y": 39.598724010239501 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Sarnadas",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52803
+      },
+      "geometry": { "x": -7.6237523303792853, "y": 39.756381188364919 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Canelas",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38117
+      },
+      "geometry": { "x": -8.564019333875704, "y": 40.716437836464173 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Mercês",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 61051
+      },
+      "geometry": { "x": -9.3296915265332263, "y": 38.792278711139936 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Amadora",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 60087
+      },
+      "geometry": { "x": -9.2360279493678483, "y": 38.759833401271088 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Valongo-Vouga",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42291
+      },
+      "geometry": { "x": -8.4499356937773289, "y": 40.624159505348068 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Pampilhosa",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37002
+      },
+      "geometry": { "x": -8.431341593724845, "y": 40.338084868648444 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Soure",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34801
+      },
+      "geometry": { "x": -8.6394791503401667, "y": 40.054987467462979 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Azurva",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42051
+      },
+      "geometry": { "x": -8.5918353445988167, "y": 40.639912963239262 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Cais do Sodré",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69005
+      },
+      "geometry": { "x": -9.1453737858278501, "y": 38.70614228817842 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alcaide",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53504
+      },
+      "geometry": { "x": -7.448787673234543, "y": 40.13389703442499 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Virtudes",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 33043
+      },
+      "geometry": { "x": -8.8280545967784256, "y": 39.086511396195938 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Cruz Quebrada",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69104
+      },
+      "geometry": { "x": -9.2521966266497593, "y": 38.699797687686903 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Marco de Canaveses",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9001
+      },
+      "geometry": { "x": -8.136875035105513, "y": 41.180961224118008 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Belmonte-Manteigas",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 54197
+      },
+      "geometry": { "x": -7.3362705000317527, "y": 40.333302661103737 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Óbidos",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62836
+      },
+      "geometry": { "x": -9.1590710542875815, "y": 39.364895030696445 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Agolada",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80283
+      },
+      "geometry": { "x": -8.5699878778277849, "y": 38.956498959068625 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Setúbal-Mar",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 68155
+      },
+      "geometry": { "x": -8.8791193556236596, "y": 38.520083877887828 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Caniços",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28100
+      },
+      "geometry": { "x": -8.4376649774192032, "y": 41.363673494352028 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Estarreja",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38158
+      },
+      "geometry": { "x": -8.5754500550353736, "y": 40.75112659045093 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Fundão",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53546
+      },
+      "geometry": { "x": -7.4964190062734071, "y": 40.141390282154106 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Santarém",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 32185
+      },
+      "geometry": { "x": -8.6752368159162838, "y": 39.242101292532105 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Vila Nova da Cerveira",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18341
+      },
+      "geometry": { "x": -8.7482781789067303, "y": 41.936028866092357 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Santana Cartaxo",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 32045
+      },
+      "geometry": { "x": -8.7589413517669374, "y": 39.144520925818178 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Palmela",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 68080
+      },
+      "geometry": { "x": -8.8738983713953257, "y": 38.576925852257133 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Complexo de Coina",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 371,
+        "coddepende": 17228
+      },
+      "geometry": { "x": -9.0678265182286566, "y": 38.593364434073962 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Lares",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 64055
+      },
+      "geometry": { "x": -8.787442669520269, "y": 40.129470878099497 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Caíde",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8383
+      },
+      "geometry": { "x": -8.226812614317689, "y": 41.252556222766408 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Avanca",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38216
+      },
+      "geometry": { "x": -8.5848010627069318, "y": 40.807481363040893 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Silvalde-Vouga",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44032
+      },
+      "geometry": { "x": -8.6303139931281336, "y": 40.988842674279951 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Taveiro",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35139
+      },
+      "geometry": { "x": -8.50028852402186, "y": 40.205906866474152 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Midões",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6080
+      },
+      "geometry": { "x": -8.5818350770417631, "y": 41.508259658892541 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vila Real de Stº António",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73569
+      },
+      "geometry": { "x": -7.4214347621131047, "y": 37.199779132869992 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Beja",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 75002
+      },
+      "geometry": { "x": -7.8584570323979444, "y": 38.018368854934266 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Benquerenças",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52878
+      },
+      "geometry": { "x": -7.5622162821605441, "y": 39.788219623178563 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alcainça-Moinhos",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62190
+      },
+      "geometry": { "x": -9.2830749017857954, "y": 38.91621544849594 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Pala",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9100
+      },
+      "geometry": { "x": -8.0909862972552027, "y": 41.103615269372149 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Marinhais",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80127
+      },
+      "geometry": { "x": -8.6871257099997283, "y": 39.048561199627947 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Aveiro",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38000
+      },
+      "geometry": { "x": -8.6407610681662916, "y": 40.643426774540849 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Nespereira",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28266
+      },
+      "geometry": { "x": -8.3195802130400605, "y": 41.403197183547597 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Macinhata",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42325
+      },
+      "geometry": { "x": -8.4582626600377893, "y": 40.653350281732841 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Valença",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 7005
+      },
+      "geometry": { "x": -8.6394185009024458, "y": 42.024677309444982 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Barca da Amieira -Envendos",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52415
+      },
+      "geometry": { "x": -7.8350139326414743, "y": 39.525974897108647 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Faro",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73007
+      },
+      "geometry": { "x": -7.9397522536956364, "y": 37.018445242284585 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Cacela",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73452
+      },
+      "geometry": { "x": -7.5381125593527445, "y": 37.176385589971531 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Bobadela ",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31070
+      },
+      "geometry": { "x": -9.0942699135684553, "y": 38.807845292539469 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Luso Buçaco",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46094
+      },
+      "geometry": { "x": -8.3849783832243059, "y": 40.390265850308779 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Casal do Álvaro",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42168
+      },
+      "geometry": { "x": -8.4879397659150566, "y": 40.579430025484385 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Darque",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6387
+      },
+      "geometry": { "x": -8.7818949448296149, "y": 41.680230189188386 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Porta Nova",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73338
+      },
+      "geometry": { "x": -7.6480622532345439, "y": 37.133144604725629 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Formoselha / Santo Varão",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35030
+      },
+      "geometry": { "x": -8.6070948477997913, "y": 40.179496550284732 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Coimbrões",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39149
+      },
+      "geometry": { "x": -8.6339507673418758, "y": 41.12440582083164 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Branca",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44461
+      },
+      "geometry": { "x": -8.4831051356396809, "y": 40.765054811047683 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Caldas da Rainha",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63008
+      },
+      "geometry": { "x": -9.1401595583995867, "y": 39.406472825587493 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Tavira",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73320
+      },
+      "geometry": { "x": -7.6557409334546414, "y": 37.120976155662156 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carreira",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6056
+      },
+      "geometry": { "x": -8.563958668887544, "y": 41.486792988828917 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Parada",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8201
+      },
+      "geometry": { "x": -8.3712610142125765, "y": 41.160232610379047 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Braço de Prata",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31005
+      },
+      "geometry": { "x": -9.1032484767545867, "y": 38.745628079758085 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Tunes",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 78006
+      },
+      "geometry": { "x": -8.2564069501106179, "y": 37.164969310918018 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Fuseta",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73205
+      },
+      "geometry": { "x": -7.7519894520959509, "y": 37.060372061174746 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Boliqueime",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 78147
+      },
+      "geometry": { "x": -8.1526663802861012, "y": 37.122744529166617 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Retaxo",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52845
+      },
+      "geometry": { "x": -7.5912459203763278, "y": 39.76966329542946 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Mealhada Norte",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37069
+      },
+      "geometry": { "x": -8.4532888910547612, "y": 40.388662523062614 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Outeiro",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62612
+      },
+      "geometry": { "x": -9.1771740699360027, "y": 39.191273423998922 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Palmilheira",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 3053
+      },
+      "geometry": { "x": -8.5565809370079151, "y": 41.201215349046493 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Casa Branca",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 74005
+      },
+      "geometry": { "x": -8.1582426574282021, "y": 38.498157007099763 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Alcântara-Mar",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69039
+      },
+      "geometry": { "x": -9.1740213101389347, "y": 38.702351412396602 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Contumil",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 3004
+      },
+      "geometry": { "x": -8.5747776583934776, "y": 41.168711408174275 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "São João do Estoril ",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69237
+      },
+      "geometry": { "x": -9.3861224409482542, "y": 38.70129508815279 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Couto de Cucujães",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44297
+      },
+      "geometry": { "x": -8.4941603200425586, "y": 40.868252877493873 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Moimenta Alcafache",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46763
+      },
+      "geometry": { "x": -7.8095569348301099, "y": 40.574544007824841 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Santa Eulália-A",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 57315
+      },
+      "geometry": { "x": -7.2534078522276477, "y": 39.006042353872722 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Souselas",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 36087
+      },
+      "geometry": { "x": -8.4257286718081854, "y": 40.286052038566503 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Santa Cruz/Damaia",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 60038
+      },
+      "geometry": { "x": -9.2131678241084831, "y": 38.74692992611083 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Rio Tinto",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 3038
+      },
+      "geometry": { "x": -8.5570959565723808, "y": 41.18459158082031 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Torre das Vargens",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 56002
+      },
+      "geometry": { "x": -7.9084620602447568, "y": 39.309646660921032 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Vila Nova da Baronia",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 74278
+      },
+      "geometry": { "x": -8.0350956374476272, "y": 38.293808662694765 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Pelariga",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34702
+      },
+      "geometry": { "x": -8.6331872882994762, "y": 39.967555984128303 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Faria",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44271
+      },
+      "geometry": { "x": -8.4949635253399745, "y": 40.879231850285407 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Bemposta",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 55129
+      },
+      "geometry": { "x": -8.1356567388081924, "y": 39.352450737835376 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Oiã ",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37275
+      },
+      "geometry": { "x": -8.5499250711910513, "y": 40.543557248106282 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Quinta do Valongo - Vacariça",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46045
+      },
+      "geometry": { "x": -8.4121909902951675, "y": 40.356710672415112 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Ermesinde",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 4002
+      },
+      "geometry": { "x": -8.5541357748137905, "y": 41.217045819079637 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Pedra Furada",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62133
+      },
+      "geometry": { "x": -9.2955188045160373, "y": 38.870105237853956 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Regueira de Pontes",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63610
+      },
+      "geometry": { "x": -8.8372340855136091, "y": 39.79758539469794 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Âncora Praia",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18150
+      },
+      "geometry": { "x": -8.8626502346647111, "y": 41.813241348114026 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Paredes",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8276
+      },
+      "geometry": { "x": -8.3240925553848459, "y": 41.203871565765958 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "São Frutuoso",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 4051
+      },
+      "geometry": { "x": -8.5580859549777131, "y": 41.258358149176502 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Carregado Norte",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31344
+      },
+      "geometry": { "x": -8.9437969256117071, "y": 39.019494085283682 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Seixas",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18275
+      },
+      "geometry": { "x": -8.8193450930909325, "y": 41.896319038737794 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Oronhe",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42176
+      },
+      "geometry": { "x": -8.4779058353273697, "y": 40.572435333613655 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Barragem de Belver",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52241
+      },
+      "geometry": { "x": -8.0012380050480676, "y": 39.48197647135428 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alvalade",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 93096
+      },
+      "geometry": { "x": -8.3831868991404566, "y": 37.936885473894407 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Fungalvaz",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34199
+      },
+      "geometry": { "x": -8.4950104443186056, "y": 39.616462329969821 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Ruílhe",
+        "codlinhaiet50": 4,
+        "codsegmentoiet50": 41,
+        "coddepende": 29074
+      },
+      "geometry": { "x": -8.4963001784150816, "y": 41.497624480669806 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Oliveira do Bairro ",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37218
+      },
+      "geometry": { "x": -8.4987723437232621, "y": 40.510214677728925 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Vila Franca de Xira",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31278
+      },
+      "geometry": { "x": -8.9863084759155178, "y": 38.955134706908169 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Panóias",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 76216
+      },
+      "geometry": { "x": -8.292636903615076, "y": 37.746453182991281 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Urgueiras",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44537
+      },
+      "geometry": { "x": -8.4811015155659977, "y": 40.703158945467159 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Vale de Figueira",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 32284
+      },
+      "geometry": { "x": -8.6299552014848651, "y": 39.313809260490942 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Camarão",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62661
+      },
+      "geometry": { "x": -9.1660055849097883, "y": 39.22763413622171 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Mira Sintra - Meleças",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62042
+      },
+      "geometry": { "x": -9.3127383408727695, "y": 38.789851004890309 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Fuentes D`Onõro",
+        "codlinhaiet50": 71,
+        "codsegmentoiet50": 711,
+        "coddepende": 33016
+      },
+      "geometry": { "x": -6.8248729907366394, "y": 40.598695561892185 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Algoz",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90050
+      },
+      "geometry": { "x": -8.30292041874144, "y": 37.167831134552365 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Funcheira",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 375,
+        "coddepende": 77008
+      },
+      "geometry": { "x": -8.3380187597619582, "y": 37.727183825422614 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Abrantes",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 251,
+        "coddepende": 52001
+      },
+      "geometry": { "x": -8.1943250478581362, "y": 39.440191350936274 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Canas Felgueira",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46599
+      },
+      "geometry": { "x": -7.9066256679326594, "y": 40.490976391400658 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Figueira da Foz",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 64113
+      },
+      "geometry": { "x": -8.8483729968421443, "y": 40.148549449335007 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Vargelas",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 11148
+      },
+      "geometry": { "x": -7.3160384331107311, "y": 41.143108365098385 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Litém",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34504
+      },
+      "geometry": { "x": -8.5931030777956998, "y": 39.837930692793712 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Portalegre",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 57000
+      },
+      "geometry": { "x": -7.4611285971218324, "y": 39.198894646445012 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Santos",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69013
+      },
+      "geometry": { "x": -9.1553122470211434, "y": 38.706155072831393 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Cabanões",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42150
+      },
+      "geometry": { "x": -8.4980406925570691, "y": 40.587261907133303 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Rede",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9357
+      },
+      "geometry": { "x": -7.8658309514461591, "y": 41.160742210885246 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Valado",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63263
+      },
+      "geometry": { "x": -9.0176728519251004, "y": 39.584510706752589 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Arronches",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 57174
+      },
+      "geometry": { "x": -7.3333593848366743, "y": 39.096816326467867 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Mealhada",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37051
+      },
+      "geometry": { "x": -8.4538380299279989, "y": 40.37508326470536 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Cacia ",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38075
+      },
+      "geometry": { "x": -8.5982064210383822, "y": 40.684820580310991 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Sanfins",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44198
+      },
+      "geometry": { "x": -8.53095595365801, "y": 40.926682181865772 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Poço Barreto",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90134
+      },
+      "geometry": { "x": -8.388783179149268, "y": 37.163611954667218 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vale de Guizo",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 92437
+      },
+      "geometry": { "x": -8.5234726296538579, "y": 38.30356813619921 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Terronhas",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8136
+      },
+      "geometry": { "x": -8.4372512005260081, "y": 41.163718167899439 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Marinha Grande",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63461
+      },
+      "geometry": { "x": -8.9261927500412046, "y": 39.736803628871463 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Mosteirô",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9134
+      },
+      "geometry": { "x": -8.0693407700370052, "y": 41.094587347273134 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Campo-Serra",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63040
+      },
+      "geometry": { "x": -9.1498457511475575, "y": 39.435414106954362 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Ermida",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9258
+      },
+      "geometry": { "x": -7.9508663221299463, "y": 41.124290792151456 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Bom João",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73031
+      },
+      "geometry": { "x": -7.9210327342703613, "y": 37.013993822500346 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Loulé",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 78238
+      },
+      "geometry": { "x": -8.0583491413316573, "y": 37.104365705322394 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Ourique",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 76158
+      },
+      "geometry": { "x": -8.2266653592441052, "y": 37.74565280219749 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Paúl",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62745
+      },
+      "geometry": { "x": -9.1626693335132234, "y": 39.294200891381251 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Cavaco",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44172
+      },
+      "geometry": { "x": -8.5374349954547988, "y": 40.939565193641336 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Mangualde",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 48009
+      },
+      "geometry": { "x": -7.760228411189015, "y": 40.586650016328129 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Sacavém  ",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31062
+      },
+      "geometry": { "x": -9.0996357406322286, "y": 38.795883986971049 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Mortágua",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46243
+      },
+      "geometry": { "x": -8.2411730091195317, "y": 40.390852964835609 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Pego",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46060
+      },
+      "geometry": { "x": -8.3898613274378331, "y": 40.365861574613795 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "São João de Loure",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42093
+      },
+      "geometry": { "x": -8.5481693096392064, "y": 40.622289720654642 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Vila Nova de Anços",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34868
+      },
+      "geometry": { "x": -8.6376612530267156, "y": 40.107201245038766 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Olhão",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73106
+      },
+      "geometry": { "x": -7.8397975058845919, "y": 37.030337570362462 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Pragal",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 371,
+        "coddepende": 17087
+      },
+      "geometry": { "x": -9.179573482874023, "y": 38.666169435108003 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Praia do Ribatejo",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 251,
+        "coddepende": 51128
+      },
+      "geometry": { "x": -8.3476349536345609, "y": 39.467181930292071 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vila das Aves ",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28134
+      },
+      "geometry": { "x": -8.4061758889039471, "y": 41.357503937854254 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Barquinha",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 251,
+        "coddepende": 51045
+      },
+      "geometry": { "x": -8.4352168758709798, "y": 39.461588322860429 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Aguieira",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42267
+      },
+      "geometry": { "x": -8.4530991718182271, "y": 40.61322618016704 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Seiça-Ourém",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34264
+      },
+      "geometry": { "x": -8.5079681571555046, "y": 39.678367080750277 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Rio Meão",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44115
+      },
+      "geometry": { "x": -8.5712012366045531, "y": 40.960972468455367 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vermoil",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34553
+      },
+      "geometry": { "x": -8.6522808742582082, "y": 39.850879075357774 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Paialvo",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34157
+      },
+      "geometry": { "x": -8.4740519364190998, "y": 39.579911625871567 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro Cantão",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Guifões",
+        "codlinhaiet50": 5,
+        "codsegmentoiet50": 51,
+        "coddepende": 21170
+      },
+      "geometry": { "x": -8.658895188696011, "y": 41.214926994768355 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Monte das Flores",
+        "codlinhaiet50": 39,
+        "codsegmentoiet50": 391,
+        "coddepende": 82214
+      },
+      "geometry": { "x": -7.9472138488565234, "y": 38.52308553427784 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Trofa ",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 4630
+      },
+      "geometry": { "x": -8.5478741214631953, "y": 41.334639818382449 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Santa Iria",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31112
+      },
+      "geometry": { "x": -9.0803334589213467, "y": 38.840921768129824 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Barreiro-A",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 95026
+      },
+      "geometry": { "x": -9.071588362498721, "y": 38.659768124286252 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Lardosa",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53215
+      },
+      "geometry": { "x": -7.4409160195370188, "y": 39.98865826881724 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Lagos",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90464
+      },
+      "geometry": { "x": -8.6715932692457951, "y": 37.108529912630544 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Cela",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63214
+      },
+      "geometry": { "x": -9.0551340619599987, "y": 39.553544088183891 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Espinho",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39008
+      },
+      "geometry": { "x": -8.6443461081905042, "y": 41.006513481562145 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "São João da Madeira",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44255
+      },
+      "geometry": { "x": -8.49525390246583, "y": 40.898585179186142 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Azinheira dos Barros – A",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 92775
+      },
+      "geometry": { "x": -8.4306047508011304, "y": 38.067653215456204 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Freixo de Numão",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 11247
+      },
+      "geometry": { "x": -7.2114008907571403, "y": 41.134649124306527 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Fatela-Penamacor",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53462
+      },
+      "geometry": { "x": -7.4103854326713066, "y": 40.149247605019504 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "São Pedro da Torre",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18440
+      },
+      "geometry": { "x": -8.666371140815798, "y": 41.993633357762725 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Pinheiro da Bemposta",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44446
+      },
+      "geometry": { "x": -8.4868814101992225, "y": 40.783578700130562 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Pegões",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 71126
+      },
+      "geometry": { "x": -8.6190611622783848, "y": 38.662289116878988 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Lousal",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 92809
+      },
+      "geometry": { "x": -8.4228917303234034, "y": 38.040764789690826 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Lapa do Lobo",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46581
+      },
+      "geometry": { "x": -7.9197017455193981, "y": 40.475579262746429 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "General Torres",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39172
+      },
+      "geometry": { "x": -8.6084344657636169, "y": 41.133230319816896 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Luz",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73262
+      },
+      "geometry": { "x": -7.6999917609639308, "y": 37.088856445366872 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Alcantarilha",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90092
+      },
+      "geometry": { "x": -8.3486481193638067, "y": 37.169887875393336 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Águas Santas",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 3046
+      },
+      "geometry": { "x": -8.5561641530547412, "y": 41.199412777949554 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Espadanal da Azambuja",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31401
+      },
+      "geometry": { "x": -8.9037105255447901, "y": 39.050221929123452 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Monte Abraão",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 60111
+      },
+      "geometry": { "x": -9.2653512049399929, "y": 38.755425641977617 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Vila Nova da Raínha",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31377
+      },
+      "geometry": { "x": -8.9283657919273409, "y": 39.036192613584795 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "São João de Ver",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44156
+      },
+      "geometry": { "x": -8.551033227227709, "y": 40.955396069483548 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Portela",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 4101
+      },
+      "geometry": { "x": -8.549358636460747, "y": 41.302116102339859 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Bencanta",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35170
+      },
+      "geometry": { "x": -8.4562736356890174, "y": 40.214478848811268 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vendas Novas",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 72009
+      },
+      "geometry": { "x": -8.4544012350973752, "y": 38.679417744461631 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Pombal Resguardo",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34629
+      },
+      "geometry": { "x": -8.6296714719042136, "y": 39.900014629758772 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Pocinho",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 12005
+      },
+      "geometry": { "x": -7.1234853067679316, "y": 41.130274229118122 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Desvio Km 19,5",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80200
+      },
+      "geometry": { "x": -8.6261755139305745, "y": 39.002944691607496 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Gouveia",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 48165
+      },
+      "geometry": { "x": -7.6020885466247856, "y": 40.573360625955836 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Guarda",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49007
+      },
+      "geometry": { "x": -7.2398733443996228, "y": 40.552426983363958 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Paços de Brandão",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44107
+      },
+      "geometry": { "x": -8.5844493621231699, "y": 40.972118560529296 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Covilhã",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 54007
+      },
+      "geometry": { "x": -7.4961338596167257, "y": 40.277491896509339 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Esgueira",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42028
+      },
+      "geometry": { "x": -8.6182713412426821, "y": 40.641526012622926 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Alferrarede",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52068
+      },
+      "geometry": { "x": -8.1868653532135927, "y": 39.473698922136585 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Entrecampos - Poente",
+        "codlinhaiet50": 29,
+        "codsegmentoiet50": 292,
+        "coddepende": 66068
+      },
+      "geometry": { "x": -9.1527699260891406, "y": 38.742363530336426 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Pereiras",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 375,
+        "coddepende": 77461
+      },
+      "geometry": { "x": -8.4462904433632726, "y": 37.436519046363344 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Valência de Alcântara",
+        "codlinhaiet50": 73,
+        "codsegmentoiet50": 731,
+        "coddepende": 35406
+      },
+      "geometry": { "x": -7.230699000200798, "y": 39.426893998728765 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Carcavelos",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69187
+      },
+      "geometry": { "x": -9.3374191979249552, "y": 38.68782177357329 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "São Pedro do Estoril",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69229
+      },
+      "geometry": { "x": -9.3718828894555184, "y": 38.6954101671611 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Entrecampos",
+        "codlinhaiet50": 29,
+        "codsegmentoiet50": 292,
+        "coddepende": 66050
+      },
+      "geometry": { "x": -9.1471798591727129, "y": 38.744881858203634 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Coina",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 371,
+        "coddepende": 17236
+      },
+      "geometry": { "x": -9.0515075526278004, "y": 38.584602763722096 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Bagaúste",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 10058
+      },
+      "geometry": { "x": -7.7336102975669299, "y": 41.147088648098084 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Monte Estoril",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69252
+      },
+      "geometry": { "x": -9.4065118807415526, "y": 38.703571535418384 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Praias-Sado-A",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 91058
+      },
+      "geometry": { "x": -8.8381204727341682, "y": 38.517956171889196 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Ameal",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 35097
+      },
+      "geometry": { "x": -8.5441261843424616, "y": 40.192369038693641 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Setúbal",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 68122
+      },
+      "geometry": { "x": -8.8849720328955772, "y": 38.530544680565988 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Chão de Maçãs-Fátima",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34249
+      },
+      "geometry": { "x": -8.4938587263678649, "y": 39.654371469229439 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Verride",
+        "codlinhaiet50": 22,
+        "codsegmentoiet50": 222,
+        "coddepende": 65086
+      },
+      "geometry": { "x": -8.7031140707929922, "y": 40.139587366014332 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alvarães",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6338
+      },
+      "geometry": { "x": -8.7395729451781907, "y": 41.648457358875319 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Esmeriz",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 5033
+      },
+      "geometry": { "x": -8.5214992785578563, "y": 41.379507890447421 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alvito",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 74351
+      },
+      "geometry": { "x": -8.0000182123099606, "y": 38.232717113217817 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Vila Fernando",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49114
+      },
+      "geometry": { "x": -7.1479799411853548, "y": 40.497785837919508 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Barracão-Sabugal",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 54429
+      },
+      "geometry": { "x": -7.2389272730331964, "y": 40.511553112006339 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Sernada do Vouga",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 43000
+      },
+      "geometry": { "x": -8.4526431381071099, "y": 40.672192027604687 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Alhandra",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31237
+      },
+      "geometry": { "x": -9.0113797994740192, "y": 38.924032789546111 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Aguda",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39057
+      },
+      "geometry": { "x": -8.6512493428620818, "y": 41.050807333881721 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Cuba",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 74476
+      },
+      "geometry": { "x": -7.8948015311680884, "y": 38.163122374605521 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Marvila",
+        "codlinhaiet50": 29,
+        "codsegmentoiet50": 292,
+        "coddepende": 66019
+      },
+      "geometry": { "x": -9.1083947193099135, "y": 38.739242351036999 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Azambuja",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 33001
+      },
+      "geometry": { "x": -8.8669260329474167, "y": 39.068160560312414 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Miramar",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39073
+      },
+      "geometry": { "x": -8.6494493525958092, "y": 41.06782279985282 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Algés",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69088
+      },
+      "geometry": { "x": -9.2294530014806337, "y": 38.698329824127335 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Jerumelo",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62257
+      },
+      "geometry": { "x": -9.2342600619814128, "y": 38.949643287279137 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Madalena",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39123
+      },
+      "geometry": { "x": -8.6377681004816704, "y": 41.111476777891113 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Caxarias",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34330
+      },
+      "geometry": { "x": -8.5456474480403415, "y": 39.71457990936613 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Papízios",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46441
+      },
+      "geometry": { "x": -8.0497015204393545, "y": 40.420503926081594 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Torres Vedras",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62471
+      },
+      "geometry": { "x": -9.2543943198341889, "y": 39.092729509275202 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Lisboa Santa Apolónia",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 30007
+      },
+      "geometry": { "x": -9.1229974889025023, "y": 38.713703793838484 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Mirão",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9225
+      },
+      "geometry": { "x": -7.9727973105310541, "y": 41.117518882397029 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Petrogal - Asfaltos",
+        "codlinhaiet50": 47,
+        "codsegmentoiet50": 471,
+        "coddepende": 85076
+      },
+      "geometry": { "x": -8.7949045576309519, "y": 37.966730808827045 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Ferrão",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 10165
+      },
+      "geometry": { "x": -7.6112581295046233, "y": 41.161897513380204 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Oleiros",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8250
+      },
+      "geometry": { "x": -8.337439849650778, "y": 41.193685535344208 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Torre da Gadanha",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 72199
+      },
+      "geometry": { "x": -8.2874549406712266, "y": 38.582862628830078 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Miuzela",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49239
+      },
+      "geometry": { "x": -7.0132680396337168, "y": 40.519336392345828 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Santana Cartaxo Resguardo",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 32052
+      },
+      "geometry": { "x": -8.7454740136448343, "y": 39.167491091334888 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Santa Margarida",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 251,
+        "coddepende": 51185
+      },
+      "geometry": { "x": -8.2965181181191348, "y": 39.447659828770966 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Viana do Castelo",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18002
+      },
+      "geometry": { "x": -8.8314166487165959, "y": 41.695174909194392 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Simões",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34744
+      },
+      "geometry": { "x": -8.6335316126702999, "y": 40.010780491824733 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Arrifana",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44248
+      },
+      "geometry": { "x": -8.5010641679652732, "y": 40.909387730165747 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Fornos de Algodres",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 48249
+      },
+      "geometry": { "x": -7.5270470346936129, "y": 40.610335348928146 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Santo Tirso",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28068
+      },
+      "geometry": { "x": -8.4731674201686431, "y": 41.350814909224404 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Taipa - Requeixo",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42127
+      },
+      "geometry": { "x": -8.5237929893874949, "y": 40.601151991176096 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Louro",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 5116
+      },
+      "geometry": { "x": -8.5381762869344833, "y": 41.436964345975582 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Praias-Sado",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 91009
+      },
+      "geometry": { "x": -8.842176620804711, "y": 38.513896743721268 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Benespera",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 54338
+      },
+      "geometry": { "x": -7.2683546842499531, "y": 40.434897067246631 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Travassô",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42135
+      },
+      "geometry": { "x": -8.514544663739537, "y": 40.594249812736656 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Quinta Grande",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80358
+      },
+      "geometry": { "x": -8.5173103460772062, "y": 38.941129177800754 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Santo Amaro",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69161
+      },
+      "geometry": { "x": -9.3120252390220024, "y": 38.68690558343576 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Leiria",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63560
+      },
+      "geometry": { "x": -8.8278506780368584, "y": 39.756622293497593 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Desvio de Picotas",
+        "codlinhaiet50": 79,
+        "codsegmentoiet50": 791,
+        "coddepende": 79202
+      },
+      "geometry": { "x": -8.0653831034059973, "y": 37.642810812255291 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Monte de Paramos",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44040
+      },
+      "geometry": { "x": -8.6257578046105738, "y": 40.982331794261036 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Leixões",
+        "codlinhaiet50": 5,
+        "codsegmentoiet50": 51,
+        "coddepende": 21154
+      },
+      "geometry": { "x": -8.6847360004770717, "y": 41.190055800777372 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Tojeirinha",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52738
+      },
+      "geometry": { "x": -7.6817845451716904, "y": 39.71676093904621 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Santa Comba Dão",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46367
+      },
+      "geometry": { "x": -8.1244156390630025, "y": 40.390507488939207 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Cascais",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69260
+      },
+      "geometry": { "x": -9.4181905101465162, "y": 38.700795446250368 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Mogofores",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 37143
+      },
+      "geometry": { "x": -8.4594039369235414, "y": 40.450485969265152 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Mafra",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62166
+      },
+      "geometry": { "x": -9.2913787317046825, "y": 38.89745692075325 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Baixa da Banheira",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 95059
+      },
+      "geometry": { "x": -9.04429569334585, "y": 38.659564339950059 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Cachofarra",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 68171
+      },
+      "geometry": { "x": -8.8543962864523902, "y": 38.512280569761977 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Pereirinhas",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28217
+      },
+      "geometry": { "x": -8.3241248742929983, "y": 41.377410245232319 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Bifurcação de Lares",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 64022
+      },
+      "geometry": { "x": -8.7647265207688783, "y": 40.122376771051037 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Esmoriz",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38406
+      },
+      "geometry": { "x": -8.6355067269375407, "y": 40.962839957660194 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Chança",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 56101
+      },
+      "geometry": { "x": -7.8078891111061761, "y": 39.275755822119379 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Curvaceiras",
+        "codlinhaiet50": 24,
+        "codsegmentoiet50": 242,
+        "coddepende": 40063
+      },
+      "geometry": { "x": -8.4299078395368738, "y": 39.547868425064181 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Moledo do Minho",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18200
+      },
+      "geometry": { "x": -8.8642968535579669, "y": 41.847949573466835 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Belém",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69054
+      },
+      "geometry": { "x": -9.1976225840011168, "y": 38.696167820316482 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Salgueirinha",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80408
+      },
+      "geometry": { "x": -8.4994867347060321, "y": 38.894969573772805 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Roma - Areeiro",
+        "codlinhaiet50": 29,
+        "codsegmentoiet50": 292,
+        "coddepende": 66035
+      },
+      "geometry": { "x": -9.1348307778554112, "y": 38.74572442282976 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Lapa",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44057
+      },
+      "geometry": { "x": -8.6052299641017118, "y": 40.983714960060865 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Mouriscas",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52142
+      },
+      "geometry": { "x": -8.1004264020355876, "y": 39.477910311274911 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Válega",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38240
+      },
+      "geometry": { "x": -8.6011183634321, "y": 40.833605994514244 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Senhora das Neves",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6312
+      },
+      "geometry": { "x": -8.7209681490018625, "y": 41.646706549474374 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Lavradio",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 95042
+      },
+      "geometry": { "x": -9.0582824174388623, "y": 38.661822092522158 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Algueirão-Parque",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 61085
+      },
+      "geometry": { "x": -9.3571846044877542, "y": 38.800203048847607 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Marujal",
+        "codlinhaiet50": 22,
+        "codsegmentoiet50": 222,
+        "coddepende": 65052
+      },
+      "geometry": { "x": -8.6762721475541227, "y": 40.140355950703665 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Lavre",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80515
+      },
+      "geometry": { "x": -8.5113003937600968, "y": 38.803559373683186 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Noémi",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49270
+      },
+      "geometry": { "x": -6.9767241727952056, "y": 40.534261577360816 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Grândola",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 92577
+      },
+      "geometry": { "x": -8.5545926873545337, "y": 38.18164376127509 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Tua",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 11007
+      },
+      "geometry": { "x": -7.4201285110473529, "y": 41.207372907064496 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Lordelo",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28191
+      },
+      "geometry": { "x": -8.3637330204939566, "y": 41.365468431771994 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Paramos ",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38414
+      },
+      "geometry": { "x": -8.6368509372179059, "y": 40.975504738779286 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Castelo Branco",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53009
+      },
+      "geometry": { "x": -7.4906963540717628, "y": 39.818120475275613 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Agualva-Cacém",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 61002
+      },
+      "geometry": { "x": -9.2984243067837742, "y": 38.76642798666456 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "São João das Craveiras",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 71159
+      },
+      "geometry": { "x": -8.5857007281703872, "y": 38.668024199304135 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Moscavide",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31047
+      },
+      "geometry": { "x": -9.0996726251962343, "y": 38.778225744650364 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Figueiredo",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44412
+      },
+      "geometry": { "x": -8.4890910619716031, "y": 40.798680198480277 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Vilela - Fornos ",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 36053
+      },
+      "geometry": { "x": -8.4413539873564787, "y": 40.263232647236414 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Cerdeira",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49205
+      },
+      "geometry": { "x": -7.0479294819125951, "y": 40.51148841279533 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Aregos",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9191
+      },
+      "geometry": { "x": -8.0074001466238762, "y": 41.106379228482673 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Silva",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6155
+      },
+      "geometry": { "x": -8.6276690737060733, "y": 41.565929729221949 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Tortosendo",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53678
+      },
+      "geometry": { "x": -7.512338616930311, "y": 40.239064639401839 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Lisboa Oriente",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 31039
+      },
+      "geometry": { "x": -9.0990947509010329, "y": 38.767759324026699 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Recarei - Sobreira",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8177
+      },
+      "geometry": { "x": -8.399091735321532, "y": 41.153783374604053 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Régua",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 10009
+      },
+      "geometry": { "x": -7.7835536171348858, "y": 41.158647433930476 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "São Mamede do Tua",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 10363
+      },
+      "geometry": { "x": -7.4348620332088906, "y": 41.213237890118549 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Juncal",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9050
+      },
+      "geometry": { "x": -8.1194146175546216, "y": 41.140665971785182 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alegria",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 11064
+      },
+      "geometry": { "x": -7.3777797896785184, "y": 41.1764812845027 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Valadares",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39115
+      },
+      "geometry": { "x": -8.6320000152214273, "y": 41.099229073404764 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Águas de Moura",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 92007
+      },
+      "geometry": { "x": -8.7474416174137737, "y": 38.573283575854354 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Santiago de Riba-Ul",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44313
+      },
+      "geometry": { "x": -8.4896074969108248, "y": 40.851302111606039 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Bombarral",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62703
+      },
+      "geometry": { "x": -9.1533534112816639, "y": 39.265110810611837 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Albergaria-a-Velha",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44552
+      },
+      "geometry": { "x": -8.4794746979955526, "y": 40.690216735117801 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Carregal do Sal",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46482
+      },
+      "geometry": { "x": -8.0075931124378243, "y": 40.43329651490852 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "São Mamede de Infesta",
+        "codlinhaiet50": 5,
+        "codsegmentoiet50": 51,
+        "coddepende": 21048
+      },
+      "geometry": { "x": -8.6133576346842631, "y": 41.190312204631617 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Soito",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 46185
+      },
+      "geometry": { "x": -8.3019184200930187, "y": 40.414938070147123 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Ródão",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52647
+      },
+      "geometry": { "x": -7.6727946133208018, "y": 39.655187152909818 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Chelas",
+        "codlinhaiet50": 29,
+        "codsegmentoiet50": 292,
+        "coddepende": 66027
+      },
+      "geometry": { "x": -9.1186208879469035, "y": 38.738812172136747 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Meia Praia",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 451,
+        "coddepende": 90431
+      },
+      "geometry": { "x": -8.6474538654077477, "y": 37.118609579252094 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Praça do Quebedo",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 68130
+      },
+      "geometry": { "x": -8.8864732200292842, "y": 38.524934437520031 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Vila da Feira",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44206
+      },
+      "geometry": { "x": -8.535433705351954, "y": 40.924317933161952 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Amieira",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 64006
+      },
+      "geometry": { "x": -8.7520984583238608, "y": 40.104163442551304 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Tramagal",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 251,
+        "coddepende": 51243
+      },
+      "geometry": { "x": -8.2480290009654667, "y": 39.460422452271793 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Fratel",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52571
+      },
+      "geometry": { "x": -7.7157363200554627, "y": 39.614014047881057 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Arroteia",
+        "codlinhaiet50": 5,
+        "codsegmentoiet50": 51,
+        "coddepende": 21055
+      },
+      "geometry": { "x": -8.6297621340197601, "y": 41.196232585374233 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Rochoso",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49163
+      },
+      "geometry": { "x": -7.090574509674533, "y": 40.507058245090974 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Meinedo",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8359
+      },
+      "geometry": { "x": -8.2587216155268166, "y": 41.248766696859647 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro Cantão",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Covelinhas",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 10090
+      },
+      "geometry": { "x": -7.6882812646732663, "y": 41.152137045918337 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Gondarém",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18325
+      },
+      "geometry": { "x": -8.763017442497917, "y": 41.920043825445163 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Barroselas",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6304
+      },
+      "geometry": { "x": -8.7011191453366763, "y": 41.646270949346984 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Évora",
+        "codlinhaiet50": 39,
+        "codsegmentoiet50": 391,
+        "coddepende": 83006
+      },
+      "geometry": { "x": -7.9072186868327581, "y": 38.56047441944272 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Coimbra B",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 36004
+      },
+      "geometry": { "x": -8.4405013361885164, "y": 40.22471587984829 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alcaria",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53629
+      },
+      "geometry": { "x": -7.5174606548179321, "y": 40.20048659546655 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Belver",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52282
+      },
+      "geometry": { "x": -7.9587058466146496, "y": 39.491981408319546 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Eirol",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 162,
+        "coddepende": 42119
+      },
+      "geometry": { "x": -8.5317264464724722, "y": 40.609420445648375 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Penalva",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 371,
+        "coddepende": 17095
+      },
+      "geometry": { "x": -8.9957254357048928, "y": 38.589685932977069 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carrascal-Delongo",
+        "codlinhaiet50": 24,
+        "codsegmentoiet50": 242,
+        "coddepende": 40030
+      },
+      "geometry": { "x": -8.4627976267089213, "y": 39.548654171684717 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Nine",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6007
+      },
+      "geometry": { "x": -8.5450688098792202, "y": 41.455460818883864 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Caminha",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 18242
+      },
+      "geometry": { "x": -8.8344395872515644, "y": 41.873980632661549 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Palmela - A",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 68098
+      },
+      "geometry": { "x": -8.8728215682350182, "y": 38.571879097458314 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "São Bartolomeu da Serra",
+        "codlinhaiet50": 38,
+        "codsegmentoiet50": 381,
+        "coddepende": 94227
+      },
+      "geometry": { "x": -8.6177178490013411, "y": 38.01305028399554 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Sintra",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 61101
+      },
+      "geometry": { "x": -9.3854502708773353, "y": 38.799292690866046 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Raquete",
+        "codlinhaiet50": 38,
+        "codsegmentoiet50": 381,
+        "coddepende": 99325
+      },
+      "geometry": { "x": -8.7720266856297435, "y": 37.972882183740261 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Poceirão",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 71001
+      },
+      "geometry": { "x": -8.7433749881721088, "y": 38.634415975750542 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Monte Redondo",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63735
+      },
+      "geometry": { "x": -8.8343678777828796, "y": 39.900331573777507 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Alvega-Ortiga",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 52209
+      },
+      "geometry": { "x": -8.0446858025734684, "y": 39.47233585172723 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Carvalheira - Maceda",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38356
+      },
+      "geometry": { "x": -8.6260798348752914, "y": 40.924505299175451 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Barqueiros",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9324
+      },
+      "geometry": { "x": -7.8874922959514837, "y": 41.140556597012463 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Sapataria",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62299
+      },
+      "geometry": { "x": -9.1993513004556089, "y": 38.968799953398921 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Lamarosa",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34090
+      },
+      "geometry": { "x": -8.4685757427476229, "y": 39.527942763042837 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Vizela",
+        "codlinhaiet50": 9,
+        "codsegmentoiet50": 91,
+        "coddepende": 28233
+      },
+      "geometry": { "x": -8.3123863663613307, "y": 41.379075032361634 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Freineda",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 49387
+      },
+      "geometry": { "x": -6.9044495690140506, "y": 40.593256595637349 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Granja",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 39040
+      },
+      "geometry": { "x": -8.6471046393753994, "y": 41.038473084973376 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Valongo",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8086
+      },
+      "geometry": { "x": -8.4873699366309232, "y": 41.188260421294274 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Celorico da Beira",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 48405
+      },
+      "geometry": { "x": -7.3825576814847622, "y": 40.665198997352924 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Muxagata",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 48298
+      },
+      "geometry": { "x": -7.472780814738158, "y": 40.629691610582945 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Durrães",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6262
+      },
+      "geometry": { "x": -8.6669981852291187, "y": 41.639096309329105 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Louriçal",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63875
+      },
+      "geometry": { "x": -8.8154086608387985, "y": 40.0162541832904 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Caldas de Moledo",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 9399
+      },
+      "geometry": { "x": -7.8266993343280413, "y": 41.152898693210673 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Pombal ",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34645
+      },
+      "geometry": { "x": -8.6301400062436429, "y": 39.916500205623137 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Albergaria dos Doze",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 34439
+      },
+      "geometry": { "x": -8.5892975278812607, "y": 39.793618896520123 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Albufeira - Ferreiras",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 78063
+      },
+      "geometry": { "x": -8.2331096044156649, "y": 37.128743334912429 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Aveleda",
+        "codlinhaiet50": 4,
+        "codsegmentoiet50": 41,
+        "coddepende": 29108
+      },
+      "geometry": { "x": -8.468373548182468, "y": 41.520124753048037 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Venda do Alcaide",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 372,
+        "coddepende": 68049
+      },
+      "geometry": { "x": -8.8882402879809543, "y": 38.605728322304401 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Cabêda",
+        "codlinhaiet50": 6,
+        "codsegmentoiet50": 61,
+        "coddepende": 8029
+      },
+      "geometry": { "x": -8.5361056386714171, "y": 41.220657451985481 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Caria",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 54148
+      },
+      "geometry": { "x": -7.3707091071198692, "y": 40.306031004214098 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Pinhel",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 48595
+      },
+      "geometry": { "x": -7.2496349133107882, "y": 40.711112263744631 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Mato Miranda",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 32383
+      },
+      "geometry": { "x": -8.5543514248959145, "y": 39.368480736359821 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Arentim",
+        "codlinhaiet50": 4,
+        "codsegmentoiet50": 41,
+        "coddepende": 29066
+      },
+      "geometry": { "x": -8.5082834731843242, "y": 41.490413467350827 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Alcains",
+        "codlinhaiet50": 25,
+        "codsegmentoiet50": 252,
+        "coddepende": 53140
+      },
+      "geometry": { "x": -7.4361487782496489, "y": 39.91996648759676 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Baraçal",
+        "codlinhaiet50": 20,
+        "codsegmentoiet50": 201,
+        "coddepende": 48454
+      },
+      "geometry": { "x": -7.3278826444777749, "y": 40.677415534229056 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Moita",
+        "codlinhaiet50": 34,
+        "codsegmentoiet50": 341,
+        "coddepende": 95109
+      },
+      "geometry": { "x": -8.9960183968767407, "y": 38.644764526930558 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Bouro",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63081
+      },
+      "geometry": { "x": -9.1511048441904084, "y": 39.469959454532834 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Ribeira de Seiça",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63925
+      },
+      "geometry": { "x": -8.7827991386906934, "y": 40.045045531071345 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Braga",
+        "codlinhaiet50": 4,
+        "codsegmentoiet50": 41,
+        "coddepende": 29157
+      },
+      "geometry": { "x": -8.4343692708978111, "y": 41.548595318935433 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Pampilhosa Concordância",
+        "codlinhaiet50": 192,
+        "codsegmentoiet50": 1921,
+        "coddepende": 37168
+      },
+      "geometry": { "x": -8.4520343349357283, "y": 40.362093444290899 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Crato",
+        "codlinhaiet50": 27,
+        "codsegmentoiet50": 271,
+        "coddepende": 56267
+      },
+      "geometry": { "x": -7.6352704571845269, "y": 39.269471478468596 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação de Concentração",
+        "desiggrupo": "Estação",
+        "designacao": "Coruche",
+        "codlinhaiet50": 33,
+        "codsegmentoiet50": 331,
+        "coddepende": 80325
+      },
+      "geometry": { "x": -8.5409078038417299, "y": 38.950327346049704 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Canal-Caveira",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 374,
+        "coddepende": 92650
+      },
+      "geometry": { "x": -8.4897584003337698, "y": 38.136544200168046 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Benfica",
+        "codlinhaiet50": 28,
+        "codsegmentoiet50": 281,
+        "coddepende": 60046
+      },
+      "geometry": { "x": -9.199965686009298, "y": 38.744312447210213 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Conceição",
+        "codlinhaiet50": 45,
+        "codsegmentoiet50": 452,
+        "coddepende": 73379
+      },
+      "geometry": { "x": -7.605589347421577, "y": 37.144353193709932 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "São Martinho do Porto",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63131
+      },
+      "geometry": { "x": -9.1331964174669302, "y": 39.508166816171546 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação Satélite",
+        "desiggrupo": "Estação",
+        "designacao": "Luzianes",
+        "codlinhaiet50": 37,
+        "codsegmentoiet50": 375,
+        "coddepende": 77263
+      },
+      "geometry": { "x": -8.4885014750755268, "y": 37.591388376330606 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Travanca-Macinhata",
+        "codlinhaiet50": 16,
+        "codsegmentoiet50": 161,
+        "coddepende": 44396
+      },
+      "geometry": { "x": -8.4813486236464151, "y": 40.814911674819527 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Silvalde",
+        "codlinhaiet50": 8,
+        "codsegmentoiet50": 81,
+        "coddepende": 38422
+      },
+      "geometry": { "x": -8.6407555281130612, "y": 40.990432028206385 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Paço de Arcos",
+        "codlinhaiet50": 32,
+        "codsegmentoiet50": 321,
+        "coddepende": 69146
+      },
+      "geometry": { "x": -9.2905355865230579, "y": 38.697107962420603 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Estação",
+        "desiggrupo": "Estação",
+        "designacao": "Dois Portos",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 62380
+      },
+      "geometry": { "x": -9.1846563160844443, "y": 39.042570088346515 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Guia",
+        "codlinhaiet50": 23,
+        "codsegmentoiet50": 231,
+        "coddepende": 63800
+      },
+      "geometry": { "x": -8.8017526545766902, "y": 39.948162851439399 }
+    },
+    {
+      "attributes": {
+        "desig_tipo": "Apeadeiro",
+        "desiggrupo": "Apeadeiro",
+        "designacao": "Areia - Darque",
+        "codlinhaiet50": 1,
+        "codsegmentoiet50": 12,
+        "coddepende": 6395
+      },
+      "geometry": { "x": -8.7992834194789467, "y": 41.68414699880428 }
+    }
+  ]
+}
